@@ -1,0 +1,19 @@
+{
+  "name": "saldo-bip-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "api": "node index.js"
+  },
+  "author": "srosinsky",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.19.2",
+    "http": "^0.0.1-security"
+  }
+}
