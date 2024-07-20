@@ -3,7 +3,6 @@
 <br>
 
 <h2> 📝 Prerrequisitos </h2>
-<br>
     - Tener NodeJS instalado en tu equipo.
 
 <h2> 📝 Instrucciones </h2>
