@@ -68,6 +68,7 @@ localhost:3000/api/estadored
     "error": "El parámetro ingresado no cumple con los requisitos para ser aceptada como Bip!."
 }
 ```
+prueba
 
 
 
